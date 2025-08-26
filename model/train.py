@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 import joblib 
 
 #load the dataset
-data = pd.read_csv("c:\ml-ci-cd-pipeline_data_iris.csv")
+data = pd.read_csv('c:ml-ci-cd-pipeline_data_iris.csv')
 
 #preprocess
 
